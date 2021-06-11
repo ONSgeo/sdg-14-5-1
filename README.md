@@ -15,13 +15,13 @@ Sites contributing significantly to the global persistence of biodiversity are i
 
 The indicator does not measure the effectiveness of protected areas in reducing biodiversity loss, which ultimately depends on a range of management and enforcement factors not covered by the indicator
 
-## Data
+### Data
 
 Protected Areas: World Database on Protected Areas, DEFRA-JNCC
 
 Key Biodiversity Areas: World Database of Key Biodiversity Areas
 
- ## Computation Method
+ ### Computation Method
  
  This indicator is calculated from data derived from a spatial overlap between digital polygons for protected areas from the World Database on Protected Areas (UNEP-WCMC & IUCN 2020) and digital polygons for marine Key Biodiversity Areas (from the World Database of Key Biodiversity Areas, including Important Bird and Biodiversity Areas, Alliance for Zero Extinction sites, and other Key Biodiversity Areas).
  
@@ -29,7 +29,7 @@ Sites are classified as marine Key Biodiversity Areas by undertaking a spatial o
 
 The value of the indicator at a given point in time, is based on year of protected area establishment and computed as the mean percentage of each Key Biodiversity Area currently recognised that is covered by protected areas. 
 
-## Disaggregation
+### Disaggregation
 
 it is straightforward to disaggregate to national and regional levels. The indicator can be disaggregated according to different protected area management categories (categories I–VI) to reflect differing specific management objectives of protected areas.
 
