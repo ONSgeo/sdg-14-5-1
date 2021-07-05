@@ -23,6 +23,8 @@ Protected Areas: World Database on Protected Areas, DEFRA-JNCC
 
 Key Biodiversity Areas: World Database of Key Biodiversity Areas
 
+UK country boundary: ONS Open Geography portal
+
  ### Computation Method
  
  This indicator is calculated from data derived from a spatial overlap between digital polygons for protected areas from the World Database on Protected Areas (UNEP-WCMC & IUCN 2020) and digital polygons for marine Key Biodiversity Areas (from the World Database of Key Biodiversity Areas, including Important Bird and Biodiversity Areas, Alliance for Zero Extinction sites, and other Key Biodiversity Areas).
