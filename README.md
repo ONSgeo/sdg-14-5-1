@@ -19,7 +19,7 @@ The indicator does not measure the effectiveness of protected areas in reducing 
 
 ### Data
 
-Protected Areas: World Database on Protected Areas, DEFRA-JNCC
+Protected Areas: [World Database on Protected Areas](https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA), DEFRA-JNCC
 
 Key Biodiversity Areas: World Database of Key Biodiversity Areas
 
