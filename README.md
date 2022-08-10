@@ -21,9 +21,9 @@ The indicator does not measure the effectiveness of protected areas in reducing 
 
 Protected Areas: [World Database on Protected Areas](https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA), DEFRA-JNCC
 
-Key Biodiversity Areas: World Database of Key Biodiversity Areas
+Key Biodiversity Areas: [World Database of Key Biodiversity Areas](https://www.keybiodiversityareas.org/kba-data)
 
-UK country boundary: ONS Open Geography portal
+UK country boundary: [ONS Open Geography portal](https://geoportal.statistics.gov.uk/)
 
  ### Computation Method
  
