@@ -3,7 +3,7 @@
 ## Indicator 14.5.1 Coverage of protected areas in relation to marine areas 
 ### Definition
 
-The indicator; [**Coverage of protected areas in relation to marine areas**]((https://unstats.un.org/sdgs/metadata/?Text=&Goal=14&Target=14.5)) shows temporal trends in the mean percentage of each important site for marine biodiversity
+The indicator; [**Coverage of protected areas in relation to marine areas**](https://unstats.un.org/sdgs/metadata/?Text=&Goal=14&Target=14.5) shows temporal trends in the mean percentage of each important site for marine biodiversity
 (i.e., those that contribute significantly to the global persistence of biodiversity) that is covered by designated protected areas.
 
 ### Concepts
