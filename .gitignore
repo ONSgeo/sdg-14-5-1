@@ -1,4 +1,4 @@
-data/
-documentation/
-intermediate/
-map_outputs/
+/data/
+/doc/
+/GIS
+/IBAT_results
