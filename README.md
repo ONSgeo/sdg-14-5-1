@@ -1,4 +1,4 @@
-$${\color{red}# This repo has been archived April 2025}$$
+# <code style="color : red">This repo has been archived April 2025</code>
 
 # Goal 14 LIFE BELOW WATER: Conserve and sustainably use the oceans, seas and marine resources for sustainable development
 
